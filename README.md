@@ -17,4 +17,6 @@
 ### Resources
 - [Help with Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
+### Here are the recordings from class, in case you want to review anything:
+ - Day 1: https://vimeo.com/184964934/6eb0748a7b
+ - Day 2: https://vimeo.com/184964933/ef06c54945
